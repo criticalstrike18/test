@@ -1,5 +1,0 @@
-{{#user}}
-Name: Saksham Patel
-Skills: Python, Docker, Kubernates, Jenkins, Git
-Email: saksham.6484@gmail.com
-{{/user}}
